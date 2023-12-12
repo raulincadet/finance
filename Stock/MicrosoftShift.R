@@ -1,7 +1,7 @@
 library(tidyverse)
 
 library(alphavantager)
-my_api='CJA0RCBPJIL23J4D'
+my_api=''
 av_api_key(my_api)
 
 
